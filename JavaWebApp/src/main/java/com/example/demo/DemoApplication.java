@@ -11,10 +11,7 @@ public class DemoApplication {
 
 		String name = "sophia";
 
-		System.out.printIn(name);
-
-		Iteger age = "20";
-		System.out.printIn(age + 5);
+		System.out.println(name);
 	}
 
 }
